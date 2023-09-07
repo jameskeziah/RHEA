@@ -1,0 +1,11 @@
+div {
+    color: blue;
+}
+
+.subsection {
+    color: brown;
+}
+
+.main .list {
+    color: red;
+}
