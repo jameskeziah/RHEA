@@ -1,5 +1,26 @@
+*{
+    border: 2px solid red;
+    margin: 60px;
+                            
+}
+.What_we_do {
+    display: flex;
+    flex-direction: column;
+    
+  background: plum;
+  border: 4px solid indigo;
+  display: flex;
+}
+.What_we_do div{
+    background: peachpuff;
+  border: 4px solid brown;
+  height: 80px;
+  flex: 1 1 auto;
+}
 div {
     color: blue;
+    text-align: center;
+    
 }
 
 .subsection {
